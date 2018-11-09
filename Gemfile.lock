@@ -1,12 +1,13 @@
-PATH
-  remote: /usr/local/ghq/github.com/udzura/lita-scorekeeper
+GIT
+  remote: https://github.com/udzura/lita-scorekeeper
+  revision: 0403169d3ce5d4ad542f0aa9544da02fe5a29925
   specs:
     lita-scorekeeper (0.1.0)
 
 GEM
   remote: https://rubygems.org/
   specs:
-    concurrent-ruby (1.1.2)
+    concurrent-ruby (1.1.3)
     dotenv (2.5.0)
     eventmachine (1.2.7)
     faraday (0.15.3)
